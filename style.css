@@ -4,7 +4,7 @@
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito:#2610cb; 
+    --botao-azul-efeito:#3086ee; 
 }
 
 body {
@@ -141,7 +141,7 @@ body {
     margin: 0em 3em;
 }
 
-.rodape__logo: {
+.rodape__logo {
     margin-bottom: 2em;
 }
 
